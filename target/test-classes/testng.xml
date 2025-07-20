@@ -1,0 +1,8 @@
+	
+<suite name="Test Suite - Entrata">
+  <test name="Selenium Tests - Entrata">
+    <classes>
+      <class name="tests.SeleniumTestsEntrata"/>
+    </classes>
+  </test>
+</suite>

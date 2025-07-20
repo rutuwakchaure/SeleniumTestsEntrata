@@ -1,0 +1,50 @@
+[2025-07-20 19:54:17] [main] INFO  SeleniumTestsEntrata - ExtentReports initialized.
+[2025-07-20 19:54:17] [main] INFO  SeleniumTestsEntrata - Reading browser configuration...
+[2025-07-20 19:54:22] [main] INFO  SeleniumTestsEntrata - Chrome browser launched and maximized.
+[2025-07-20 19:54:22] [main] INFO  SeleniumTestsEntrata - Opening base URL before each test...
+[2025-07-20 19:54:22] [main] INFO  Home - Opening URL: https://www.entrata.com
+[2025-07-20 19:54:28] [main] INFO  SeleniumTestsEntrata - Test: Sign In button and Click it
+[2025-07-20 19:54:28] [main] INFO  Home - Find Sign In button on homepage and click on it
+[2025-07-20 19:54:33] [main] INFO  ScreenshotUtil - Screenshot saved to: screenshots/Click_SignIn_Button_20250720_195433.png
+[2025-07-20 19:54:33] [main] INFO  SeleniumTestsEntrata - Page title after navigation: Entrata Sign In
+[2025-07-20 19:54:34] [main] INFO  SeleniumTestsEntrata - Browser closed.
+[2025-07-20 19:54:34] [main] INFO  SeleniumTestsEntrata - ExtentReports flushed.
+[2025-07-21 01:12:13] [main] INFO  SeleniumTestsEntrata - ExtentReports initialized.
+[2025-07-21 01:12:13] [main] INFO  SeleniumTestsEntrata - Browser configuration in progress
+[2025-07-21 01:12:22] [main] INFO  SeleniumTestsEntrata - Chrome browser launched and maximized.
+[2025-07-21 01:12:22] [main] INFO  SeleniumTestsEntrata - Opening base URL before each test...
+[2025-07-21 01:12:22] [main] INFO  Home - Opening URL: https://www.entrata.com
+[2025-07-21 01:12:30] [main] INFO  ScreenshotUtil - Screenshot saved to: screenshots/testSignInButton_20250721_011230.png
+[2025-07-21 01:12:30] [main] ERROR SeleniumTestsEntrata - Test failed: testSignInButton
+[2025-07-21 01:12:31] [main] INFO  SeleniumTestsEntrata - Browser closed.
+[2025-07-21 01:12:31] [main] INFO  SeleniumTestsEntrata - ExtentReports flushed.
+[2025-07-21 01:17:53] [main] INFO  SeleniumTestsEntrata - ExtentReports initialized.
+[2025-07-21 01:17:53] [main] INFO  SeleniumTestsEntrata - Browser configuration in progress
+[2025-07-21 01:17:55] [main] INFO  SeleniumTestsEntrata - Chrome browser launched and maximized.
+[2025-07-21 01:17:55] [main] INFO  SeleniumTestsEntrata - Opening base URL before each test...
+[2025-07-21 01:17:55] [main] INFO  Home - Opening URL: https://www.entrata.com
+[2025-07-21 01:18:20] [main] INFO  SeleniumTestsEntrata - Test: Sign In button and Click it
+[2025-07-21 01:18:20] [main] INFO  Home - Find Sign In button on homepage and click on it
+[2025-07-21 01:18:25] [main] INFO  ScreenshotUtil - Screenshot saved to: screenshots/Click_SignIn_Button_20250721_011825.png
+[2025-07-21 01:18:25] [main] INFO  SeleniumTestsEntrata - Page title after navigation: Entrata Sign In
+[2025-07-21 01:18:25] [main] INFO  SeleniumTestsEntrata - Opening base URL before each test...
+[2025-07-21 01:18:25] [main] INFO  Home - Opening URL: https://www.entrata.com
+[2025-07-21 01:18:29] [main] INFO  SeleniumTestsEntrata - Test: Navigate to Affordable
+[2025-07-21 01:18:29] [main] INFO  Home - Navigating to Solutions Menu
+[2025-07-21 01:18:30] [main] INFO  Home - Navigating to Affordable and click on it
+[2025-07-21 01:18:34] [main] INFO  ScreenshotUtil - Screenshot saved to: screenshots/Affordable_Page_20250721_011834.png
+[2025-07-21 01:18:34] [main] INFO  SeleniumTestsEntrata - Page title after navigation: Intuitive Affordable Housing software with workflows to keep you sane.
+[2025-07-21 01:18:34] [main] INFO  SeleniumTestsEntrata - Opening base URL before each test...
+[2025-07-21 01:18:34] [main] INFO  Home - Opening URL: https://www.entrata.com
+[2025-07-21 01:18:37] [main] INFO  SeleniumTestsEntrata - Test:Video play
+[2025-07-21 01:18:37] [main] INFO  Home - Navigating to Video play
+[2025-07-21 01:18:39] [main] INFO  ScreenshotUtil - Screenshot saved to: screenshots/VideoPlay_20250721_011839.png
+[2025-07-21 01:18:39] [main] INFO  SeleniumTestsEntrata - Video is played successfully.
+[2025-07-21 01:18:39] [main] INFO  SeleniumTestsEntrata - Opening base URL before each test...
+[2025-07-21 01:18:39] [main] INFO  Home - Opening URL: https://www.entrata.com
+[2025-07-21 01:18:49] [main] INFO  SeleniumTestsEntrata - Test:Navigation to Watch Demo and fill form
+[2025-07-21 01:18:49] [main] INFO  Home - Clicking on 'Watch demo'
+[2025-07-21 01:18:56] [main] INFO  ScreenshotUtil - Screenshot saved to: screenshots/DemoFormFilled_20250721_011856.png
+[2025-07-21 01:18:56] [main] INFO  SeleniumTestsEntrata - Demo form filled successfully.
+[2025-07-21 01:18:57] [main] INFO  SeleniumTestsEntrata - Browser closed.
+[2025-07-21 01:18:57] [main] INFO  SeleniumTestsEntrata - ExtentReports flushed.

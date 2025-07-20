@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-21T01:17:53 IST" name="Default suite" finished-at="2025-07-21T01:18:57 IST" duration-ms="63898">
+    <groups>
+    </groups>
+    <test started-at="2025-07-21T01:17:53 IST" name="Default test" finished-at="2025-07-21T01:18:57 IST" duration-ms="63898">
+      <class name="tests.SeleniumTestsEntrata">
+        <test-method is-config="true" signature="initializeExtentReports()[pri:0, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:17:52 IST" name="initializeExtentReports" finished-at="2025-07-21T01:17:53 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeExtentReports -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:17:53 IST" name="launchBrowser" finished-at="2025-07-21T01:17:55 IST" duration-ms="2046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="setupHomePage()[pri:0, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:17:55 IST" name="setupHomePage" finished-at="2025-07-21T01:18:20 IST" duration-ms="25736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupHomePage -->
+        <test-method signature="testSignInButton()[pri:1, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:18:20 IST" name="testSignInButton" finished-at="2025-07-21T01:18:25 IST" duration-ms="4485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignInButton -->
+        <test-method is-config="true" signature="handleTestFailure(org.testng.ITestResult)[pri:0, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:18:25 IST" name="handleTestFailure" finished-at="2025-07-21T01:18:25 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSignInButton status=SUCCESS method=SeleniumTestsEntrata.testSignInButton()[pri:1, instance:tests.SeleniumTestsEntrata@5ddabb18] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleTestFailure -->
+        <test-method is-config="true" signature="setupHomePage()[pri:0, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:18:25 IST" name="setupHomePage" finished-at="2025-07-21T01:18:29 IST" duration-ms="3766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupHomePage -->
+        <test-method signature="testAffordableNavigation()[pri:2, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:18:29 IST" name="testAffordableNavigation" finished-at="2025-07-21T01:18:34 IST" duration-ms="4836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAffordableNavigation -->
+        <test-method is-config="true" signature="handleTestFailure(org.testng.ITestResult)[pri:0, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:18:34 IST" name="handleTestFailure" finished-at="2025-07-21T01:18:34 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAffordableNavigation status=SUCCESS method=SeleniumTestsEntrata.testAffordableNavigation()[pri:2, instance:tests.SeleniumTestsEntrata@5ddabb18] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleTestFailure -->
+        <test-method is-config="true" signature="setupHomePage()[pri:0, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:18:34 IST" name="setupHomePage" finished-at="2025-07-21T01:18:37 IST" duration-ms="3638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupHomePage -->
+        <test-method signature="testVideoPlay()[pri:3, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:18:37 IST" name="testVideoPlay" finished-at="2025-07-21T01:18:39 IST" duration-ms="2026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVideoPlay -->
+        <test-method is-config="true" signature="handleTestFailure(org.testng.ITestResult)[pri:0, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:18:39 IST" name="handleTestFailure" finished-at="2025-07-21T01:18:39 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testVideoPlay status=SUCCESS method=SeleniumTestsEntrata.testVideoPlay()[pri:3, instance:tests.SeleniumTestsEntrata@5ddabb18] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleTestFailure -->
+        <test-method is-config="true" signature="setupHomePage()[pri:0, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:18:39 IST" name="setupHomePage" finished-at="2025-07-21T01:18:49 IST" duration-ms="10065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupHomePage -->
+        <test-method signature="testDemo()[pri:4, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:18:49 IST" name="testDemo" finished-at="2025-07-21T01:18:56 IST" duration-ms="6799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemo -->
+        <test-method is-config="true" signature="handleTestFailure(org.testng.ITestResult)[pri:0, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:18:56 IST" name="handleTestFailure" finished-at="2025-07-21T01:18:56 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testDemo status=SUCCESS method=SeleniumTestsEntrata.testDemo()[pri:4, instance:tests.SeleniumTestsEntrata@5ddabb18] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleTestFailure -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:18:56 IST" name="closeBrowser" finished-at="2025-07-21T01:18:57 IST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="flushExtentReports()[pri:0, instance:tests.SeleniumTestsEntrata@5ddabb18]" started-at="2025-07-21T01:18:57 IST" name="flushExtentReports" finished-at="2025-07-21T01:18:57 IST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushExtentReports -->
+      </class> <!-- tests.SeleniumTestsEntrata -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
